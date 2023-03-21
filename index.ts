@@ -18,7 +18,7 @@ const config = {
   authRequired: false,
   auth0Logout: true,
   secret: 'a long, randomly-generated string stored in env',
-  baseURL: 'http://localhost:9000',
+  baseURL: 'https://securedservice.onrender.com',
   clientID: '0kcwoHTo9cb4pNKi52SbGGpmSUtboP2Z',
   issuerBaseURL: 'https://dev-e42be0kavg8dfspb.us.auth0.com'
 };
